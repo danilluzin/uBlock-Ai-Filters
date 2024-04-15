@@ -36,7 +36,7 @@ www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(OpenDream)
 
 
 ! Old Solutions:
-
+!#if false
 ! domain solution:
 ! www.google.com##div[role*="listitem"]:has(a[href*="playground.com"])
 ! www.google.com##div[role*="listitem"]:has(a[href*="mythjourneys"])
@@ -79,3 +79,5 @@ www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Fy!)
 www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(AI Generated)
 www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Lexica)
 www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(OpenDream)
+
+!#endif
