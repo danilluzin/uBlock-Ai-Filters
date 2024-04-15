@@ -1,7 +1,10 @@
+
+!#if true
 ! filters Ai crap from Google Images
 ! DOMAINS
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="midjourney"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="mythjourneys"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="legit.ng"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="museai"])
@@ -14,29 +17,47 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="huggin
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="kreepik"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="krea"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="craiyon"]) 
-www.google.com###search div[data-attrid*="images universal"]:has(a[href*="artHub.ai"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="arthub.ai"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="tensor.art"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="creativefabrica"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="civitai"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playgroundai"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="aish.com"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="starryai"]) 
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="neural.love"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stablecog"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pixai.art"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="lexica.art"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="opendream"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="freepik"]) 
 
 
 !KEYWORDS
 
-www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(AI Art Generator)
-www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Prompt)
-www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(AI Generated)
-www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Lexica)
-www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(OpenDream)
+www.google.com###search div[data-attrid*="images universal"]:has-text(Fy!)
+
+! * Case agnostic (careful! this searches enywhere in text. eg "/ai/i" WILL filter out anything that contains ai anywhere. eg "wait", "main" etc)
+! vvv "Ai" in a sentance surrounded by whitespaces
+www.google.com###search div[data-attrid*="images universal"]:has-text(/[^a-zA-Z]ai[^a-zA-Z]/i) 
+! vvv "Ai" at the beggining of a sentance
+www.google.com###search div[data-attrid*="images universal"]:has-text(/^ai[^a-zA-Z]/i)
+
+www.google.com###search div[data-attrid*="images universal"]:has-text(/[^a-zA-Z]prompt[^a-zA-Z]/i)
+www.google.com###search div[data-attrid*="images universal"]:has-text(/aiart/i)
+www.google.com###search div[data-attrid*="images universal"]:has-text(AI art)
+www.google.com###search div[data-attrid*="images universal"]:has-text(AI Art)
+www.google.com###search div[data-attrid*="images universal"]:has-text(/ai-generated/i)
 
 
 
+!#endif
 
-! Old Solutions:
+
+
+! OLD SOLUTIONS:
 !#if false
+
+
 ! domain solution:
 ! www.google.com##div[role*="listitem"]:has(a[href*="playground.com"])
 ! www.google.com##div[role*="listitem"]:has(a[href*="mythjourneys"])
@@ -81,3 +102,4 @@ www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Lexica)
 www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(OpenDream)
 
 !#endif
+
