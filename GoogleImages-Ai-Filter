@@ -1,0 +1,43 @@
+! filters Ai crap from Google Images
+! domain solution:
+www.google.com##div[role*="listitem"]:has(a[href*="playground.com"])
+www.google.com##div[role*="listitem"]:has(a[href*="mythjourneys"])
+www.google.com##div[role*="listitem"]:has(a[href*="legit.ng"])
+www.google.com##div[role*="listitem"]:has(a[href*="museai"])
+www.google.com##div[role*="listitem"]:has(a[href*="aminoapps"])
+
+! 2023-11-16 
+! keyword solution (worse but was a quick and dirty solution atm)
+! Case agnostic (careful! this searches enywhere in text. eg "/ai/i" WILL filter out anything that contains ai anywhere. eg "wait", "main" etc)
+
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/aiart/i)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/[^a-zA-Z]ai[^a-zA-Z]/i)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/^ai[^a-zA-Z]/i)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/midjourney/i)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/stablediffusion/i)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/pngtree/i)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/tensor/i)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(/stablecog/i)
+
+!Case Sensative
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(OpenArt)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Prompt Hunt)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(NightCafe)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Artvy)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Hugging Face)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Freepik)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(KREA)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Craiyon)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(AI Art Generator)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Prompt)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(ArtHub.ai)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Tensor.art)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Creative Fabrica)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Civitai)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Playground AI)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Aish.com)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(StarryAI)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Fy!)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(AI Generated)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Lexica)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(OpenDream)
