@@ -1,10 +1,48 @@
 ! filters Ai crap from Google Images
+! DOMAINS
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="mythjourneys"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="legit.ng"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="museai"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="aminoapps"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="openart"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="prompthunt"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="nightcafe"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="artvy"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="huggingface"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="kreepik"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="krea"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="craiyon"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="artHub.ai"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="tensor.art"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="creativefabrica"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="civitai"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playgroundai"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="aish.com"]) 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="starryai"]) 
+
+
+
+!KEYWORDS
+
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(AI Art Generator)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Prompt)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(AI Generated)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(Lexica)
+www.google.com##div.BUooTd.ViTmJb.PNCib.isv-r:has-text(OpenDream)
+
+
+
+
+! Old Solutions:
+
 ! domain solution:
-www.google.com##div[role*="listitem"]:has(a[href*="playground.com"])
-www.google.com##div[role*="listitem"]:has(a[href*="mythjourneys"])
-www.google.com##div[role*="listitem"]:has(a[href*="legit.ng"])
-www.google.com##div[role*="listitem"]:has(a[href*="museai"])
-www.google.com##div[role*="listitem"]:has(a[href*="aminoapps"])
+! www.google.com##div[role*="listitem"]:has(a[href*="playground.com"])
+! www.google.com##div[role*="listitem"]:has(a[href*="mythjourneys"])
+! www.google.com##div[role*="listitem"]:has(a[href*="legit.ng"])
+! www.google.com##div[role*="listitem"]:has(a[href*="museai"])
+! www.google.com##div[role*="listitem"]:has(a[href*="aminoapps"])
 
 ! 2023-11-16 
 ! keyword solution (worse but was a quick and dirty solution atm)
