@@ -32,6 +32,8 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="opendr
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="freepik"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="seaart.ai"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="loadedmedia"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="shedevrum.ai"])
+
 
 !KEYWORDS
 
