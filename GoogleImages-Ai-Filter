@@ -30,7 +30,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pixai.
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="lexica.art"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="opendream"]) 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="freepik"]) 
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="seaart.ai"]) 
 
 !KEYWORDS
 
