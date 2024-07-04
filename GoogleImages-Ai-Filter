@@ -36,6 +36,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="shedev
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="deepdreamgenerator"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="www.story.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stablediffusion"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="www.characterart.com"])
 
 !KEYWORDS
 
