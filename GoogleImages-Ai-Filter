@@ -38,6 +38,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="www.st
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stablediffusion"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="www.characterart.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vitalentum"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="kulturevulturez"])
 
 !KEYWORDS
 
