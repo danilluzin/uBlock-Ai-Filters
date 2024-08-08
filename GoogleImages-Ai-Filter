@@ -39,6 +39,12 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stable
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="www.characterart.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vitalentum"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="kulturevulturez"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="ifoto.ai"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="opensea"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="midlibrary.io"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="promptden"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="musesai"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="poweredtemplate"])
 
 !KEYWORDS
 
