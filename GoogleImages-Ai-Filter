@@ -45,6 +45,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="midlib
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="promptden"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="musesai"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="poweredtemplate"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stock.adobe.com"])
 
 !KEYWORDS
 
