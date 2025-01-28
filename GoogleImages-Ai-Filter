@@ -50,7 +50,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="dungeo
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="siemens-mobile.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vecteezy.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="posters.cz"])
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="dagmaramach.com"])
 
 !KEYWORDS
 
