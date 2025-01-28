@@ -48,7 +48,8 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="powere
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stock.adobe.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="dungeonsanddragonsfan.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="siemens-mobile.com"])
-www.google.com###search div[data-attrid*="images universal"]:has(a[href*="www.vecteezy.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vecteezy.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="posters.cz"])
 
 
 !KEYWORDS
