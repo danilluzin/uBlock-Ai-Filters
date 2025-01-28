@@ -51,6 +51,16 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="siemen
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vecteezy.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="posters.cz"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="dagmaramach.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="insertface.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="promptbase"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="artfasad.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stockcake.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="timelessfashionhub.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vintagelifestyle.com"])
+
+
+
+
 
 !KEYWORDS
 
