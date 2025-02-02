@@ -57,7 +57,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="artfas
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stockcake.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="timelessfashionhub.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vintagelifestyle.com"])
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="idyllic"])
 
 
 
