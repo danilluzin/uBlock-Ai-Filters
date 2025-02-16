@@ -58,6 +58,12 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="timele
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vintagelifestyle.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="idyllic"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="algoreducation"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="algoreducation"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="for3d.ru"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pictorem.com"])
+
+
+
 
 
 
@@ -76,7 +82,7 @@ www.google.com###search div[data-attrid*="images universal"]:has-text(/aiart/i)
 www.google.com###search div[data-attrid*="images universal"]:has-text(AI art)
 www.google.com###search div[data-attrid*="images universal"]:has-text(AI Art)
 www.google.com###search div[data-attrid*="images universal"]:has-text(/ai-generated/i)
-
+www.google.com###search div[data-attrid*="images universal"]:has-text(/stablediffusion/i)
 
 
 !#endif
