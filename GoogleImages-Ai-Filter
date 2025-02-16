@@ -72,7 +72,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="evaner
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pngtree.com"])
 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/dalle2"])
-www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/stablediffusion"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/StableDiffusion"])
 
 
 
