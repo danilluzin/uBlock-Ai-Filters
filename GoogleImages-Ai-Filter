@@ -70,10 +70,23 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="iamfy.
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="easy-peasy.ai"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="evanerichards.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pngtree.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="diffus"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="simplified.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="decrypt.co\/"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="artificy.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="tinybots.net"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="prompthero"])
+
+
+
+
+
+
 
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/dalle2"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/StableDiffusion"])
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/aiArt"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/dndai"])
 
 
 !KEYWORDS
