@@ -103,6 +103,7 @@ www.google.com###search div[data-attrid*="images universal"]:has-text(/[^a-zA-Z]
 www.google.com###search div[data-attrid*="images universal"]:has-text(/aiart/i)
 www.google.com###search div[data-attrid*="images universal"]:has-text(AI art)
 www.google.com###search div[data-attrid*="images universal"]:has-text(AI Art)
+www.google.com###search div[data-attrid*="images universal"]:has-text(^AI )
 www.google.com###search div[data-attrid*="images universal"]:has-text(/ai-generated/i)
 www.google.com###search div[data-attrid*="images universal"]:has-text(/stablediffusion/i)
 
