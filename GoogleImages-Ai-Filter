@@ -68,8 +68,11 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="arthub
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="dreamstime.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="iamfy.co"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="easy-peasy.ai"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="evanerichards.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pngtree.com"])
 
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/dalle2"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="reddit.com\/r\/stablediffusion"])
 
 
 
