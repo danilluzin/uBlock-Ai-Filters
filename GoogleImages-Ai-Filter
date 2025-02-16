@@ -3,7 +3,6 @@
 ! filters Ai crap from Google Images
 ! DOMAINS
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
-www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="midjourney"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="mythjourneys"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="legit.ng"])
@@ -58,7 +57,7 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="stockc
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="timelessfashionhub.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="vintagelifestyle.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="idyllic"])
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="algoreducation"])
 
 
 
