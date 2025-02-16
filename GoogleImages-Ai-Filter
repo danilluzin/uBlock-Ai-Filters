@@ -2,6 +2,9 @@
 !#if true
 ! filters Ai crap from Google Images
 ! DOMAINS
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai\/"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai$"])
+
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="midjourney"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="mythjourneys"])
@@ -61,7 +64,10 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*="algore
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="algoreducation"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="for3d.ru"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pictorem.com"])
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="arthub.ai"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="dreamstime.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="iamfy.co"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="easy-peasy.ai"])
 
 
 
