@@ -5,6 +5,7 @@
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai\/"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai$"])
 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="pond5.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="playground.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="midjourney"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="mythjourneys"])
