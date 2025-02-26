@@ -5,7 +5,7 @@
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai\/"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai$"])
 
-www.google.com###search div[data-attrid*="images universal"]:has(a[href*="deviantart.com"]) !sorry not sorry
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="deviantart.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="dndnames.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="litrpgreads.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="artimator"])
