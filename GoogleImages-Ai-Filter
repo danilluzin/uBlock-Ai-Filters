@@ -7,6 +7,8 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai$"]
 
 ! www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="latest-hairstyles.com/"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="creativebooster.net"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="mendeserve.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="wallhere.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="krita-artists.org"])
