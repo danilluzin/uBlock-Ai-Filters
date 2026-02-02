@@ -6,7 +6,15 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai\/"
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai$"])
 
 ! www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
+!www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
+!www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
+!www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
+!www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
+!www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
+!www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
 
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="landmarksarchitects.com"])
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="lorddecor.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="latest-hairstyles.com/"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="creativebooster.net"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="mendeserve.com"])
