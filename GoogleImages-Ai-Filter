@@ -13,9 +13,8 @@ www.google.com###search div[data-attrid*="images universal"]:has(a[href*=".ai$"]
 !www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
 !www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
 !www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
-!www.google.com###search div[data-attrid*="images universal"]:has(a[href*=""])
 
-
+www.google.com###search div[data-attrid*="images universal"]:has(a[href*="char-gen.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="listwithnikkievv"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="landmarksarchitects.com"])
 www.google.com###search div[data-attrid*="images universal"]:has(a[href*="lorddecor.com"])
@@ -134,7 +133,8 @@ www.google.com###search div[data-attrid*="images universal"]:has-text(AI Art)
 www.google.com###search div[data-attrid*="images universal"]:has-text("AI ")
 www.google.com###search div[data-attrid*="images universal"]:has-text(/ai-generated/i)
 www.google.com###search div[data-attrid*="images universal"]:has-text(/stablediffusion/i)
-
+www.google.com###search div[data-attrid*="images universal"]:has-text("A.I.")
+www.google.com###search div[data-attrid*="images universal"]:has-text("A. I.")
 
 !#endif
 
